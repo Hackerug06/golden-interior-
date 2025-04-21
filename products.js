@@ -4,7 +4,7 @@ const products = [
         id: '1',
         name: 'Luxury Sofa Set',
         description: 'Premium leather sofa set with elegant design for your living room.',
-        image: 'images/furniture1.jpg',
+        image: 'images/sofaset.jpg',
         category: 'living-room'
     },
     {
@@ -18,7 +18,7 @@ const products = [
         id: '3',
         name: 'King Size Bed',
         description: 'Solid wood king size bed with luxurious headboard.',
-        image: 'images/furniture3.jpg',
+        image: 'images/kingsizebed.jpg',
         category: 'bedroom'
     },
     {
