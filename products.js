@@ -11,7 +11,7 @@ const products = [
         id: '2',
         name: 'Dining Table Set',
         description: 'Modern 6-seater dining table with comfortable chairs.',
-        image: 'images/furniture2.jpg',
+        image: 'images/dining.jpg',
         category: 'dining'
     },
     {
